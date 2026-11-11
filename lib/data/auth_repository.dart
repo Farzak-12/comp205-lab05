@@ -1,5 +1,4 @@
 import 'package:firebase_auth/firebase_auth.dart';
-
 /// Thrown by AuthRepository with a message you can show to the user. Given.
 class AuthFailure implements Exception {
   AuthFailure(this.message);
