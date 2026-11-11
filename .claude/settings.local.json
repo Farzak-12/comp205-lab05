@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(lib/firebase_options.dart)",
+      "Read(android/app/google-services.json)"
+    ]
+  }
+}
